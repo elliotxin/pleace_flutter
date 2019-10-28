@@ -1,0 +1,4 @@
+#Mon Oct 28 23:52:30 SGT 2019
+base.0=/Users/elliotxin/AndroidStudioProjects/pleace_flutter/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
